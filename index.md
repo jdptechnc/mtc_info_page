@@ -11,6 +11,7 @@ Hi, I'm Jared Priddy. Check out my repos!
 | Project Name        |  Web Page                                                          | Link                                                             |
 |---------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
 | mtc-backend-prod     |  No Page   | [GitHub](https://github.com/jdptechnc/mtc-backend-prod.git)    |
+| mtc-frontend-prod     |  No Page   | [GitHub](https://github.com/jdptechnc/mtc-frontend-prod.git)    |
 | mtc-infra-prod     |  No Page   | [GitHub](https://github.com/jdptechnc/mtc-infra-prod.git)    |
 
 ---
